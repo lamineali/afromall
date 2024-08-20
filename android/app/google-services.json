@@ -1,0 +1,200 @@
+{
+  "project_info": {
+    "project_number": "438612331982",
+    "project_id": "yawa-335c3",
+    "storage_bucket": "yawa-335c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:4bc019b430f22e16a52f9f",
+        "android_client_info": {
+          "package_name": "com.aliimpression.afromall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:9577ff734054fc9fa52f9f",
+        "android_client_info": {
+          "package_name": "com.aliimpression.afromall1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:fc2519ce420be91fa52f9f",
+        "android_client_info": {
+          "package_name": "com.aliimpression.afromall2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:cf900e4e338cf8b4a52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.afromall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:03a1dcf2fe5caa07a52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.afromall1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:f9a4e7b682d9c76da52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.afromall2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:17b26667488b9b00a52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.afromallu20202"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:62bcbde4d38321c9a52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:a2e29e34dcfaef6ca52f9f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438612331982:android:50e91a22cf7c963aa52f9f",
+        "android_client_info": {
+          "package_name": "dev.aliimpression.afromall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpUQIwinICWYyC_a30zatKoW5EihqLPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
